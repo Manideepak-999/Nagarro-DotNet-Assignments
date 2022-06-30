@@ -1,0 +1,17 @@
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\DAL.dll.config
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\DAL.dll
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\DAL.pdb
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\EntityFramework.dll
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\Shared.dll
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\Shared.pdb
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\Shared.dll.config
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\EntityFramework.xml
+D:\Assignments\Book-Reading-Event-master\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assignments\Book-Reading-Event-master\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Assignments\Book-Reading-Event-master\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Assignments\Book-Reading-Event-master\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Assignments\Book-Reading-Event-master\DAL\obj\Debug\DAL.dll
+D:\Assignments\Book-Reading-Event-master\DAL\obj\Debug\DAL.pdb
+D:\Assignments\MVC Assignment Solution\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Assignments\MVC Assignment Solution\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
