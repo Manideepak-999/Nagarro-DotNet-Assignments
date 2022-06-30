@@ -1,0 +1,15 @@
+<h4>Login as a Student</h4>
+<form [formGroup]="LoginStudent" (ngSubmit)="CollectDetails()" method="get" class="addStu" autocomplete="off">
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Roll : </label>
+    <input type="number" required class="form-control" formControlName="roll" id="exampleInputEmail1">
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Dob : </label>
+    <input type="date" class="form-control" formControlName="dob" id="exampleInputEmail1">
+  </div>
+  <button type="submit" class="btn btn-success">Login</button>  
+  <button type="reset" class="btn btn-outline-secondary">Clear</button>
+</form>

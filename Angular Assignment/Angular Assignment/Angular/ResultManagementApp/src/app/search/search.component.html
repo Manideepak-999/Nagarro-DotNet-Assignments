@@ -1,0 +1,15 @@
+<h4>Find Result</h4>
+<form [formGroup]="StudentSearch" (ngSubmit)="CollectDetails()" method="get" class="addStu" autocomplete="off">
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Roll : </label>
+    <input type="number" required class="form-control" formControlName="roll" id="exampleInputEmail1">
+  </div>
+
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">Name : </label>
+    <input type="text" class="form-control" formControlName="name" id="exampleInputEmail1">
+  </div>
+  <button type="submit" class="btn btn-success">Search</button>
+  <button type="reset" class="btn btn-outline-secondary">Clear</button>
+</form>

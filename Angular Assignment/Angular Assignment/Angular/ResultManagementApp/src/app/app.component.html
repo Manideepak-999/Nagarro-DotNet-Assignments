@@ -1,0 +1,10 @@
+<nav class="navbar">
+  <div class="container-fluid">
+    <a class="navbar-brand" routerLink="">Result Management System</a>
+    <a class="navbar-brand" routerLink="" *ngIf="!isLoggedIn()">Logout</a>
+  </div>
+</nav>
+
+<div class="container-fluid">
+  <router-outlet></router-outlet>
+</div>

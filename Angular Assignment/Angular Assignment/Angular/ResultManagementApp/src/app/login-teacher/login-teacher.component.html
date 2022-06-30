@@ -1,0 +1,18 @@
+<h4>Login as a Teacher</h4>
+<form [formGroup]="TeacherLogin" (ngSubmit)="collectDetails()" class="addStu" autocomplete="off">
+
+  <div class="container-fluid ">
+    <div class=" mb-3">
+      <label class="form-label">Username : </label>
+      <input type="text" required class="form-control" formControlName="username" id="exampleInputEmail1">
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Password : </label>
+      <input type="password" required class="form-control" formControlName="password" id="exampleInputEmail2">
+    </div>
+    <button type="submit" class="btn btn-success">Login</button>
+    <button type="reset" class="btn btn-outline-secondary">Clear</button>
+  </div>
+
+</form>
