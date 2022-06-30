@@ -1,0 +1,13 @@
+git clone "link"
+
+cd vemuri-manideepak/
+
+git add . 
+
+git status
+
+git commit -m "new change"
+
+git status
+
+git push -u origin master
